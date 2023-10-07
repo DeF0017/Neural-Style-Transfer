@@ -16,3 +16,7 @@ __OR__
 * Open the python notebook in google colab.
 * Import the content image and style image in google colab.
 * Run the code.
+
+# Acknowledgement
+* Special thanks to Gatys et al.'s seminal paper on Neural Style Transfer.
+* Acknowledgments to any other resources, libraries, or frameworks used in the project.
