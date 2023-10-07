@@ -12,7 +12,7 @@ Neural Style Transfer (NST) is a fascinating deep learning project that combines
 * Cloning the repository:
   ```shell
    git clone https://github.com/DeF0017/Neural-Style-Transfer.git
-__ OR __
+__OR__
 * Open the python notebook in google colab.
 * Import the content image and style image in google colab.
 * Run the code.
